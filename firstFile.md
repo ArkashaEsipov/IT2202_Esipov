@@ -1,9 +1,10 @@
-neskolko slov
-1. djn nfr
+> Задание второй работы
+Список:
+1. помидор
+2. Огурец
+3. Сметана
 
-- djshdfk
-- sdfsdwerw
-> weoriw dsfs
-- ![alt text](image-1.png)
+- Картинка ниже, она кстати про первую лабу
 ![alt text](image.png)
 
+# Ну вроде бы готово
